@@ -37,9 +37,9 @@ for item in lista_arquivos_pasta:
         nomes_corretos.append(item)
 
 nomes_corretos.sort()
-print("*" * 80)
-print(nomes_corretos)
-print("*" * 80)
+# print("*" * 80)
+# print(nomes_corretos)
+# print("*" * 80)
 
 if nomes_corretos == []:
     numero = 0
